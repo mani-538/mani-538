@@ -9,7 +9,6 @@ AI & Data Science Student • Aspiring AI Engineer • Backend Developer
 <p align="center">
 Building AI-powered applications that solve real-world problems.
 </p>
-# Typing Animation
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Aspiring+AI+Engineer;Backend+Developer;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects" alt="Typing SVG" />
 </p>
@@ -21,22 +20,28 @@ Building AI-powered applications that solve real-world problems.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/manikandan-m-31224b3aa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:manikandan.aids.25@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="https://leetcode.com/mani_aids_25">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
-# About Me
+## 👨‍💻 About Me
 
----
+I'm **Manikandan M**, a B.Tech student in **Artificial Intelligence & Data Science** with a passion for building AI-powered applications that solve real-world problems.
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science
+- 🤖 Currently building **Visionary Lens** and **DevPilot AI**
+- 💡 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Backend Development
+- 💻 Practicing Data Structures & Algorithms through daily coding
+- 🚀 Goal: Become an industry-ready AI Engineer and contribute to impactful AI products
 
 # Tech Stack
 
