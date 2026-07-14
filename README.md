@@ -182,6 +182,63 @@ A collection of machine learning projects covering regression, classification, a
 </tr>
 </table>
 
+## 🏆 Certifications & Achievements
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📜 Certifications
+
+- 🎓 Google AI Essentials _(Planned)_
+- ☁️ Microsoft Azure AI Fundamentals _(Learning)_
+- 🐍 Python Programming
+- 🤖 Machine Learning Foundations
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏅 Achievements
+
+- 🚀 Building **Visionary Lens**
+- 🤖 Building **DevPilot AI**
+- 💻 Daily GitHub Coding Journey
+- 🧠 Active LeetCode Problem Solver
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💡 Hackathons
+
+- 🏆 IIT Bombay Hackathon (Project Preparation)
+- 🚀 Exploring AI Innovation Challenges
+- 🤝 Interested in National-Level Hackathons
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Learning Journey
+
+- ✅ Python
+- ✅ Java Basics
+- ✅ C Programming
+- 🔄 Machine Learning
+- 🔄 Flutter Development
+- 🔄 FastAPI Backend
+
+</td>
+
+</tr>
+</table>
+
 # Connect With Me
 
 ---
