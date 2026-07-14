@@ -75,9 +75,53 @@ I'm **Manikandan M**, a B.Tech student in **Artificial Intelligence & Data Scien
   <img src="https://skillicons.dev/icons?i=tensorflow,docker,firebase" />
 </p>
 
-# Featured Projects
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 Visionary Lens
+
+AI-powered assistant designed to help visually impaired students understand printed and handwritten educational content using OCR and Generative AI.
+
+**Tech Stack:** Flutter • FastAPI • Gemini AI • OCR • Supabase
+
+</td>
+
+<td width="50%">
+
+### 🤖 DevPilot AI
+
+An AI-powered software engineering assistant that helps developers with coding, debugging, documentation, and project workflows.
+
+**Tech Stack:** Python • FastAPI • Google ADK • Gemini API
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Daily Coding Journey
+
+A repository documenting my daily coding practice with Java, C, and problem-solving challenges.
+
+**Focus:** Consistency • DSA • Programming Fundamentals
+
+</td>
+
+<td width="50%">
+
+### 📊 Machine Learning Projects
+
+A collection of machine learning projects covering regression, classification, and real-world AI applications.
+
+**Tech Stack:** Python • Pandas • Scikit-learn • TensorFlow
+
+</td>
+</tr>
+</table>
 
 # GitHub Statistics
 
