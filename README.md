@@ -305,6 +305,7 @@ A collection of machine learning projects covering regression, classification, a
 </td>
 </tr>
 </table>
+
 # Connect With Me
 
 ---
