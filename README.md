@@ -126,16 +126,61 @@ A collection of machine learning projects covering regression, classification, a
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mani-538&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani-538&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mani-538&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mani-538&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-# Current Focus
+## 🎯 Current Focus
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔨 Currently Building
+
+- 🌟 Visionary Lens
+- 🤖 DevPilot AI
+- 💻 Daily Coding Journey
+- 📚 Machine Learning Projects
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+
+- Machine Learning
+- FastAPI Backend Development
+- Flutter App Development
+- Data Structures & Algorithms
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 2026 Goals
+
+- 🚀 Become an Industry-Ready AI Engineer
+- ⭐ Build a Strong GitHub Portfolio
+- 🤝 Contribute to Open Source
+- 💼 Secure an AI/Software Internship
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤝 Open to Collaborate
+
+- AI Applications
+- Computer Vision Projects
+- Full-Stack Development
+- Open Source Projects
+
+</td>
+</tr>
+</table>
 
 # Connect With Me
 
