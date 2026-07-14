@@ -239,6 +239,72 @@ A collection of machine learning projects covering regression, classification, a
 </tr>
 </table>
 
+## 🧰 Developer Toolkit
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Development
+
+- VS Code
+- Android Studio
+- Jupyter Notebook
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔧 Version Control
+
+- Git
+- GitHub
+- GitHub Desktop
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Backend
+
+- FastAPI
+- REST APIs
+- Uvicorn
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🗄️ Database
+
+- PostgreSQL
+- Supabase
+- SQLite
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☁️ Deployment
+
+- Render
+- GitHub Pages
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AI & ML
+
+- Google Gemini API
+- Google ML Kit
+- TensorFlow (Learning)
+
+</td>
+</tr>
+</table>
 # Connect With Me
 
 ---
