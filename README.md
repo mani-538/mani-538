@@ -43,9 +43,37 @@ I'm **Manikandan M**, a B.Tech student in **Artificial Intelligence & Data Scien
 - 💻 Practicing Data Structures & Algorithms through daily coding
 - 🚀 Goal: Become an industry-ready AI Engineer and contribute to impactful AI products
 
-# Tech Stack
+## 🛠️ Tech Stack
 
----
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flutter" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,figma" />
+</p>
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,docker,firebase" />
+</p>
 
 # Featured Projects
 
