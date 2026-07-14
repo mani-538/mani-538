@@ -123,9 +123,15 @@ A collection of machine learning projects covering regression, classification, a
 </tr>
 </table>
 
-# GitHub Statistics
+## 📊 GitHub Statistics
 
----
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mani-538&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani-538&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 # Current Focus
 
